@@ -1,5 +1,6 @@
 package org.tnsif.acce.c2tc.java;
 
+
 public class VariableDemo {
 			int price=10;
 			void print() {
@@ -17,4 +18,3 @@ public class VariableDemo {
 			}
 
 		}
-
